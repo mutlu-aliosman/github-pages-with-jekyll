@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Blog sayfama hoş geldiniz.
 
-I'm glad you are here. I plan to talk about ...
+Merhaba,
+Ben Ali Osman,
